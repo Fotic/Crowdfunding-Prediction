@@ -1,4 +1,4 @@
-# NBA Players Salaries Prediction in Python 🐍
+# Crowdfunding Prediction in Python 🐍
 ### by using Linear Regression Model
 ## ❓ About
 
